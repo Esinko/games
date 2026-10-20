@@ -2,6 +2,10 @@
 
 > The name of the challenge on the CTF platform
 
+# Category and difficulty (nice to have)
+
+> For example "Category: web" and "Difficulty: medium". Difficulty is your estimate: easy, medium or hard.
+
 # Flag(s)
 
 For example:

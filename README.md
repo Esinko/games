@@ -4,7 +4,7 @@ First of all, a big thank you for considering to submit a challenge to Disobey C
 
 Latest changes:
 
-* 2026-10-20 - added a recommended solver script (solve.py) with a common interface
+* 2026-10-20 - added a recommended solver script (solve.py) with a common interface, and asked for a category and difficulty estimate
 * 2025-07-18 - added a submission directory structure template
 * 2022-11-14 - minor tweaks on submission formats etc.
 * 2022-11-02 - updated the supported platform distributions
@@ -31,6 +31,7 @@ A single challenge submission can include multiple flags like obtaining a common
 Please include a text/Markdown file (or HTML/PDF if needed, please avoid proprietary formats) containing the following metadata about the challenge. See [the challenge template](challenge_template/README.md) and [the challenge public information](challenge_template/public/README.md).
 
 * **Preferred challenge name.** We will try to respect this, but will reserve the right to alter it in case of duplicate names or e.g. inappropriate language. This may include your company's name or similar if wanted.
+* **Category and difficulty** (nice to have). The category, e.g. web, crypto, forensics, reverse engineering, pwn, stego, OSINT or misc, and your estimate of the difficulty: easy, medium or hard. It helps us balance the competition; we may adjust them.
 * **Challenge/task description.** Usually these look like "The intelligence team captured some suspicious packets, can you find out what the attacker was able to steal?" or "Find the flag from our customer database at http://challenge.example.com" (we will fill in the final URL).
 * **The flag(s).** The flag should be easily recognizable as a flag. If in any way possible, use DISOBEY[yourflaggoeshere] as the flag format.
 * **A walkthrough** so we can test that the challenge works as intended even after we've installed it somewhere. Extremely important if the challenge is hosted by us. A [solver script](#solver-script-recommended) is even better, but the walkthrough is still needed for answering the players' questions.
