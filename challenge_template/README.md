@@ -28,6 +28,10 @@ For example:
 
 > The most common questions we get from the players are "Is this intentional?" and "Is this broken?" Anything that helps us in answering that, is useful.
 
+# Solver (recommended)
+
+> How to run your solver, e.g. `python3 solve.py HOST 8080` (hosted) or `python3 solve.py public/files` (file-based), and anything we should know (dependencies, run time). See [the guidelines](../README.md#solver-script-recommended) and the skeleton [solve.py](solve.py).
+
 # Hints (optional)
 
 > We can provide the players with hints (that will cost some points). If you want to give any, write them here.

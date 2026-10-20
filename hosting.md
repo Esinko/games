@@ -19,6 +19,10 @@ For hosting-as-a-service, the following formats are supported:
     * Many image formats can be converted to the RAW format with a tool such as qemu-img.
     * Also, the image needs to be set up to obtain its IP address via DHCP and it might be useful for us to have some means of logging in.
 
+## Testing
+
+A [solver script](README.md#solver-script-recommended) (recommended) lets us check that your challenge works in our environment, after every redeploy and during the event. It gets the host and the ports as arguments, so it works wherever we install the challenge.
+
 ## Hosting your own
 
 If you want, you can host the challenge (or parts of it) yourself. At your own risk of course. You are also responsible for all the related communication with for example your hosting provider.
