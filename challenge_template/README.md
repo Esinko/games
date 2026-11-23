@@ -2,6 +2,10 @@
 
 > The name of the challenge on the CTF platform
 
+## Challenge description
+
+> Optional challenge description or introduction given to players along with the challenge
+
 # Category and difficulty (nice to have)
 
 > For example "Category: web" and "Difficulty: medium". Difficulty is your estimate: easy, medium or hard.
